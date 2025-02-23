@@ -35,7 +35,7 @@ I'm a **coding enthusiast** who loves breaking things just to fix them again (ye
 ## 📣 Contact Me  
 📩 **Email:** You wish! 😆 (But seriously, DM me.)  
 🐦 **Twitter/X:** [@Jarveco](https://x.com/Jarveco)  
-📷 **LinkedIn:** [@Chaitanya Nayak](www.linkedin.com/in/chaitanya-nayak)  
+📷 **LinkedIn:** [@Chaitanya Nayak](https:www.linkedin.com/in/chaitanya-nayak)  
 
 ---
 
