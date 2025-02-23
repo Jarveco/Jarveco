@@ -5,9 +5,8 @@ I'm a **coding enthusiast** who loves breaking things just to fix them again (ye
 
 - 👀 **Interests:** Software Development, AI, Android, and making bugs look like features.  
 - 🌱 **Currently Learning:** Android Development, Servlets, and UI/UX magic.  
-- 💞️ **Looking to Collaborate:** On cool projects that involve **C, Python, AI, or web development**.  
+- 💞️ **Looking to Collaborate:** On cool projects that involve **C, Python, Android, AI, or web development**.  
 - 📫 **Reach Me:** You don't. I find you. (Or just DM me on GitHub 😆)  
-- ⚡ **Fun Fact:** I can write 100 lines of code and break it in 1 second. Then spend an hour debugging a semicolon.  
 
 ---
 
@@ -35,9 +34,9 @@ I'm a **coding enthusiast** who loves breaking things just to fix them again (ye
 
 ## 📣 Contact Me  
 📩 **Email:** You wish! 😆 (But seriously, DM me.)  
-🐦 **Twitter/X:** [@YourHandle](https://twitter.com/)  
-📷 **Instagram:** [@YourInsta](https://instagram.com/)  
+🐦 **Twitter/X:** [@Jarveco](https://x.com/Jarveco)  
+📷 **LinkedIn:** [@Chaitanya Nayak](www.linkedin.com/in/chaitanya-nayak)  
 
 ---
 
-🔥 _"With great power comes great... wait, wrong sh*t! Just give MAXIMUM EFFORTS!"_  
+🔥 _"With great power comes great... wait, wrong sh*t! Just giving MAXIMUM EFFORTS!"_  
