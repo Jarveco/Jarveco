@@ -1,4 +1,4 @@
-# 👋 Hola, I'm Jarveco  
+# 👋 Hola, I'm Chaitanya [CV]  
 
 ## 🚀 About Me  
 I'm a **coding enthusiast** who loves breaking things just to fix them again (yeah, it's a hobby now). Whether it's **C, Java, Python, Flutter, or Web Dev**, I code with MAXIMUM EFFORTS! 💻🔥  
